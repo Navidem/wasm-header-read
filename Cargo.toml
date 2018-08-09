@@ -1,0 +1,7 @@
+[package]
+name = "wasm-header-read"
+version = "0.1.0"
+authors = ["Navidem <navid.emamdoost@gmail.com>"]
+
+[dependencies]
+parity-wasm = {path = "/Users/nemamdoost/project/parity-wasm"}
